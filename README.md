@@ -3,9 +3,12 @@
 </p>
 
 # ROBERTA RAMOS
-<table><tr><td>[LinkedIn]()</td><td>[Medium]()</td></tr></table>
+<table><tr><td></td><td>[Medium]()</td></tr></table>
 <sub>Programadora e aprendiz de cientista de dados</sub>
 
+
+| Primeiro cabeçalho  |  Segundo cabeçalho  |
+| ------------------- | ------------------- |
 
 ## Projetos de Data Science:
 
