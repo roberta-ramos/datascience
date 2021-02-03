@@ -3,15 +3,10 @@
 </p>
 
 # ROBERTA RAMOS
-<sub>*Programadora e aprendiz de cientista de dados</sub>
-
-
-**Links:**
-* [LinkedIn]()
-* [Medium]()
+<table><tr><td>[LinkedIn]()</td><td>[Medium]()</td></tr></table>
+<sub>Programadora e aprendiz de cientista de dados</sub>
 
 
 ## Projetos:
 
 * **Teste:** link
-
