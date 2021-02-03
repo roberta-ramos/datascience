@@ -7,6 +7,10 @@
 <sub>Programadora e aprendiz de cientista de dados</sub>
 
 
-## Projetos:
+## Projetos de Data Science:
+
+* **Teste:** link
+
+## Artigos:
 
 * **Teste:** link
