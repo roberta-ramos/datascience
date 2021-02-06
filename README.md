@@ -6,7 +6,7 @@
 | ------------------- | ------------------- |
 
 # ROBERTA RAMOS
-<sub>Programadora e aprendiz de cientista de dados</sub>
+<sub>Desenvolvedora e aprendiz de cientista de dados.</sub>
 
 
 
